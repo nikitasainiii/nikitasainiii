@@ -17,7 +17,7 @@ nikita = {
     "experience" : ["Intern @ KPMG India (Current)",
                     "Web Developer Intern @ TATA Technologies",
                     "Data Analyst Intern @ Indo Research Services"],
-    "interests"  : ["Full-Stack Development", "Data Analytics", "Problem Solving"],
+    "interests"  : "Full-Stack Development", "Data Analytics", "Problem Solving",
     "achievement": "Published Patent | IEEE WIEHACK 5.0 Top 20 Finalist",
     "currently"  : "Interning @ KPMG | Seeking full-time / MS opportunities 🚀",
     "fun_fact"   : "I debug with coffee ☕ and fix bugs with determination 💪"
