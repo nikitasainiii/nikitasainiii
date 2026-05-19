@@ -19,7 +19,7 @@ nikita = {
                     "Data Analyst Intern @ Indo Research Services"],
     "interests"  : "Full-Stack Development", "Data Analytics", "Problem Solving",
     "achievement": "Published Patent | IEEE WIEHACK 5.0 Top 20 Finalist",
-    "portfolio"  : "https://your-portfolio-link.vercel.app",  # 🌐 replace with your live link
+    "portfolio"  : "https://nikita-saini-portfolio-website.vercel.app/",
     "currently"  : "Interning @ KPMG | Seeking full-time / MS opportunities 🚀",
     "fun_fact"   : "I debug with coffee ☕ and fix bugs with determination 💪"
 }
@@ -45,10 +45,13 @@ nikita = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -74,19 +77,23 @@ nikita = {
 
 ## 🚀 Featured Projects
 
-### 🏥 Doctor Appointment Booking System
-> A responsive web application enabling patients to view available doctor slots and submit appointment requests — replacing manual scheduling with a seamless digital experience.
+### 🌍 Disaster Response & Relief Analytics Dashboard
+> An end-to-end platform aggregating live earthquake data from the USGS API, featuring automated data pipelines and real-time interactive dashboards for crisis management and resource allocation.
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap  
-**Impact:** Improved booking accessibility and eliminated phone-based scheduling friction
+**Tech:** React.js · Python · SQL · Leaflet.js
+
+- 🔄 Built automated Python data cleaning pipelines ingesting live USGS API feeds, accelerating data processing by **~40%**
+- 🗺️ Delivered real-time React.js + Leaflet dashboards for safe-zone mapping and resource allocation, cutting simulated crisis response latency from **hours to under 5 minutes**
 
 ---
 
-### 🛒 E-Commerce Website — Elomelo
-> A fully responsive shopping interface with product browsing, cart management, and an optimized checkout experience.
+### 🔍 AI/ML Model Vulnerability Scanner
+> A full-stack bias and security audit tool that evaluates machine learning models across 6 vulnerability categories, aligned with EU AI Act compliance standards.
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap  
-**Impact:** Enhanced UX through intuitive navigation and optimized frontend performance
+**Tech:** Python · FastAPI · React.js · Docker · SQLite
+
+- ⚡ Built a parallel async evaluation pipeline assessing models across **6 categories** (demographic bias, adversarial robustness, data leakage, explainability, and more), reducing scan time **3× vs. sequential manual audits**
+- 📄 Implemented EU AI Act–aligned audit reports (Articles 10, 13, 15) exportable as PDF/Excel, with JWT-secured REST API, WebSocket progress streaming, and containerised Docker deployment
 
 ---
 
@@ -134,7 +141,7 @@ nikita = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio--link.vercel.app-2A9D8F?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikita--saini--portfolio--website.vercel.app-2A9D8F?style=for-the-badge&logo=vercel&logoColor=white)](https://nikita-saini-portfolio-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saininikita711)
 [![GitHub](https://img.shields.io/badge/GitHub-nikitasainiii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitasainiii)
 [![Email](https://img.shields.io/badge/Email-saininikita711%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saininikita711@gmail.com)
